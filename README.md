@@ -2,15 +2,6 @@
 
 Projeto de landing page para uma cafeteria, desenvolvido durante o aprendizado com o vídeo do **Rodolfo Mori** do **Dev Club**.
 
-## �️ Demonstração
-
-![Preview do Projeto](./preview.png)
-
-> **Nota**: Para adicionar a imagem do projeto:
-> 1. Tire uma screenshot da página aberta no navegador
-> 2. Salve como `preview.png` na pasta raiz do projeto
-> 3. A imagem será exibida automaticamente aqui
-
 ## �📋 Sobre o Projeto
 
 A Cafeteria NoCode é uma landing page moderna e responsiva que apresenta os produtos e serviços de uma cafeteria fictícia. O projeto foi criado com foco em design clean e experiência do usuário, utilizando apenas HTML e CSS.
@@ -82,4 +73,5 @@ Apresentação visual dos principais produtos com preços.
 
 ![alt text](image.png)
 
+https://cafeteria-no-code.vercel.app/
 
